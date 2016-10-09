@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:layout_height="match_parent"
+    android:button="@null"
+    android:clickable="false"
+    android:textSize="15sp"
+    android:textColor="#4e4c4c"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+    android:background="@drawable/viewpager_indicator"
+    android:gravity="center"/>
